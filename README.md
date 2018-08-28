@@ -1,5 +1,5 @@
 # vfd-fan-control
 
-you must use pip to install the following
+you must install the following using pip
 pip install twisted
 pip install cpppo

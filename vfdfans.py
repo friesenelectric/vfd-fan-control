@@ -1,4 +1,14 @@
 #!/usr/bin/env python
+
+# vfd-fan-control 
+#
+# Copyright (c) 2018, Friesen Electric.
+#
+# Cvfd-fan-control is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later
+# version.  See the LICENSE file
+
 from twisted.web.server import Site
 from twisted.web.resource import Resource
 from twisted.internet import reactor
